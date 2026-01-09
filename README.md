@@ -1,5 +1,7 @@
 # 🗺️ Análise Espacial: População e Domicílios em São Paulo (Censo 2022)
 
+![Mapa do censo populacional de SP (2022)](capa.png "a Mapa do censo populacional de SP (2022)")
+
 Este projeto realiza uma análise geoespacial exploratória dos dados do Censo Demográfico 2022 para o estado de São Paulo. O objetivo é visualizar a distribuição populacional e densidade domiciliar através de mapas coropléticos.
 
 ## 🛠️ Tecnologias Utilizadas
