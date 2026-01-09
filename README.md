@@ -30,4 +30,4 @@ Este projeto realiza uma análise geoespacial exploratória dos dados do Censo D
 
 ---
 
-[👉🏽 Desenvolvedor do Código](www.linkedin.com/in/patrickrgsanjos)
+[👉🏽 Desenvolvedor do Código](https://www.linkedin.com/in/patrickrgsanjoswww.linkedin.com/in/patrickrgsanjos)
